@@ -26,7 +26,26 @@
 ## Attribuer les roles aux utilisateurs 
 ![image](https://user-images.githubusercontent.com/81756572/205342943-d566e43b-6844-4e40-b9cb-06e082a5698e.png)
 ![image](https://user-images.githubusercontent.com/81756572/205343070-93f5cf75-69f4-4e08-8d9f-fa795051fccc.png)
-![image](https://user-images.githubusercontent.com/81756572/205343154-6663efb6-c4eb-430b-9316-9d6de42110e7.png)
-![image](https://user-images.githubusercontent.com/81756572/205343189-05bbd4d0-9269-4277-bd1e-bcb44d2a8a80.png)
+![image](https://user-images.githubusercontent.com/81756572/205343492-c2aa7e6f-784e-436d-a0dc-fa2baac75809.png)
+![image](https://user-images.githubusercontent.com/81756572/205343565-32f5e44d-ada8-49c0-8361-abc060fad62a.png)
+
+#Vérifier une authentification avec postman 
+![image](https://user-images.githubusercontent.com/81756572/205344341-3d2a9db5-40e9-41ab-9972-e77a1ad975a1.png)
+![image](https://user-images.githubusercontent.com/81756572/205344930-439659ec-f1fa-44bb-b049-b0aa7c9b1698.png)
+![image](https://user-images.githubusercontent.com/81756572/205345570-68082f90-1658-4e8e-9ca6-40fa616d5757.png)
+![image](https://user-images.githubusercontent.com/81756572/205345686-f0138fef-9cab-4476-b7b4-52e8a089c2fa.png)
+## la clé public
+![image](https://user-images.githubusercontent.com/81756572/205346248-3bb1294f-5699-4654-ab21-7453eb5bef38.png)
+![image](https://user-images.githubusercontent.com/81756572/205346127-256363e2-b570-40f6-993e-b077cbd03209.png)
+## demander un nouvel access token using le refresh token
+![image](https://user-images.githubusercontent.com/81756572/205346769-641ae067-2202-4a79-9cf4-8fba28f18db2.png)
+## 3ème façon pour s'identifier : client id & client secret 
+### activer client authentication 
+![image](https://user-images.githubusercontent.com/81756572/205347884-67429aa7-a114-41c1-ad22-deba2acd6403.png)
+### copier client secret
+![image](https://user-images.githubusercontent.com/81756572/205347974-f977447f-3d3c-414f-95a6-1575ae6cc4c7.png)
+![image](https://user-images.githubusercontent.com/81756572/205348833-efa0c6aa-8183-4395-9c73-781a8fb4aa99.png)
+
+
 
 
