@@ -53,9 +53,36 @@
 ![image](https://user-images.githubusercontent.com/81756572/205376556-5f00c647-ebb0-433a-9a60-816dc2b7f02a.png)
 ![image](https://user-images.githubusercontent.com/81756572/205376595-09e73244-8ef3-4b89-ae12-2d9d8c33afc9.png)
 
-## Creat client
+## Create client
 ![image](https://user-images.githubusercontent.com/81756572/205378214-96746343-ae49-4fe0-83f3-edcb2cb72615.png)
 ![image](https://user-images.githubusercontent.com/81756572/205378142-4b34be71-c124-419f-b0b4-634d616b1003.png)
+
+
+## Create user + mdp
+![image](https://user-images.githubusercontent.com/81756572/205389497-475f0649-35ea-4e84-8d33-5b6617055664.png)
+![image](https://user-images.githubusercontent.com/81756572/205391317-a1ba0605-56dd-48b1-9d12-f7a3858e1fa6.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205390489-acdbafaa-223f-4ec7-a644-3d4b5a0da9c9.png)
+![image](https://user-images.githubusercontent.com/81756572/205390552-75b90e8c-e607-4685-a2b8-76b69a40406f.png)
+![image](https://user-images.githubusercontent.com/81756572/205391068-d66631eb-0db1-4ace-b345-125a85b5aaca.png)
+
+## add roles
+![image](https://user-images.githubusercontent.com/81756572/205391580-9207a50b-caae-4fab-b687-aab85d87fabf.png)
+![image](https://user-images.githubusercontent.com/81756572/205391814-9ea07304-c36a-44a8-93ea-e1d9fd422006.png)
+![image](https://user-images.githubusercontent.com/81756572/205391908-2613d5a1-6a12-4e08-8e95-806ebaf0add3.png)
+
+## Attribuer les roles
+![image](https://user-images.githubusercontent.com/81756572/205392259-e6a81216-611f-4d52-aa85-bba2d82519d5.png)
+![image](https://user-images.githubusercontent.com/81756572/205392522-1e1cb7cf-d0f9-44d2-8704-8e7d75bf416a.png)
+![image](https://user-images.githubusercontent.com/81756572/205392741-4408660d-7e61-46b1-876d-e13f61e86923.png)
+
+## verifier l'authentif avec avec postman et jwt 
+![image](https://user-images.githubusercontent.com/81756572/205395123-20d8b019-09f1-4eef-93d2-c53836ea1b2e.png)
+![image](https://user-images.githubusercontent.com/81756572/205395222-b529620d-abb6-4c78-bfe2-7cb6b8274c5c.png)
+
+
+
+
 
 
 
