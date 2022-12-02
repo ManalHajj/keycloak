@@ -81,8 +81,38 @@
 ![image](https://user-images.githubusercontent.com/81756572/205395222-b529620d-abb6-4c78-bfe2-7cb6b8274c5c.png)
 
 
+# Sécuriser products-app
+## ajouter les dépendances 
+![image](https://user-images.githubusercontent.com/81756572/205401136-a6894b63-6d4f-4c6a-b1a7-d2ce0fd07f40.png)
+![image](https://user-images.githubusercontent.com/81756572/205403367-eb03ce31-e953-4537-8c3f-2059d33fa56b.png)
 
 
+## Keyloak security config 
+![image](https://user-images.githubusercontent.com/81756572/205401249-81524289-880f-4481-a34a-53eb0a39d4d9.png)
+
+## Application properties
+![image](https://user-images.githubusercontent.com/81756572/205401323-f22091ce-3e23-4d2b-8fe7-8433bc3d5d17.png)
+
+## keyloak adapter config
+![image](https://user-images.githubusercontent.com/81756572/205401375-61849ca7-720a-4190-b736-ac428ef5a33e.png)
+
+## accès à product après connexion
+![image](https://user-images.githubusercontent.com/81756572/205402784-ae5baede-4b2f-4f2a-b40d-bf1ed480a38b.png)
+
+![image](https://user-images.githubusercontent.com/81756572/205401531-3368748c-0839-4b1b-a5e5-cfe994d2a8ba.png)
+
+## ajout du logout
+![image](https://user-images.githubusercontent.com/81756572/205402579-7d5548db-4986-4577-8cc1-4113a20a2525.png)
+![image](https://user-images.githubusercontent.com/81756572/205402601-1ae48bde-dd89-4575-95f1-c90e6b776b63.png)
+ ## pour afficher le nom au lieu du id
+ ![image](https://user-images.githubusercontent.com/81756572/205402684-c9d5d9e2-61b7-4dfb-bb0b-de63530be10e.png)
+![image](https://user-images.githubusercontent.com/81756572/205402816-84e24540-97f1-4a73-8d13-9ab21b7dbbe6.png)
 
 
+#Suppliers-service 
+
+![image](https://user-images.githubusercontent.com/81756572/205403786-bd19f637-3ece-42c6-b9a6-5a993ed9f31a.png)
+
+## add public key to the settings
+![image](https://user-images.githubusercontent.com/81756572/205404716-beacd2e6-cf8d-4078-b5a4-4b4342fd1fa9.png)
 
