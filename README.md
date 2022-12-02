@@ -48,4 +48,10 @@
 
 
 
+# -Sécuriser avec Keycloak les applications Products-App (Frontend avec thymeleaf) et Supplier-service (Micro-service backend)
+## Create realm 
+![image](https://user-images.githubusercontent.com/81756572/205376556-5f00c647-ebb0-433a-9a60-816dc2b7f02a.png)
+![image](https://user-images.githubusercontent.com/81756572/205376595-09e73244-8ef3-4b89-ae12-2d9d8c33afc9.png)
+
+
 
