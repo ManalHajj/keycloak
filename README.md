@@ -116,3 +116,28 @@
 ## add public key to the settings
 ![image](https://user-images.githubusercontent.com/81756572/205404716-beacd2e6-cf8d-4078-b5a4-4b4342fd1fa9.png)
 
+## consulter le jwt 
+![image](https://user-images.githubusercontent.com/81756572/205436089-8715cbaa-1c66-44d6-8a53-5306c8aa5a76.png)
+![image](https://user-images.githubusercontent.com/81756572/205436173-fd665950-77bc-4804-a71d-154fd8e63fe6.png)
+
+## utiliser rest template 
+### faire communiquer les micro-services
+![image](https://user-images.githubusercontent.com/81756572/205436372-16c34254-3b01-43e1-8635-2f701bb795b1.png)
+![image](https://user-images.githubusercontent.com/81756572/205436594-2067fdac-27ca-4a12-aa2a-9bb5a11cdd29.png)
+![image](https://user-images.githubusercontent.com/81756572/205436822-05b7c306-0a7f-4b9e-b75e-874ed854b75a.png)
+![image](https://user-images.githubusercontent.com/81756572/205436834-09931bcb-6eb5-4725-99de-e7552d378c3b.png)
+![image](https://user-images.githubusercontent.com/81756572/205436846-c5cbb281-66eb-401b-94fb-600bd0b3b170.png)
+![image](https://user-images.githubusercontent.com/81756572/205437031-2dfa4ed4-ccb1-4f48-aad2-ae885ee72dc3.png)
+![image](https://user-images.githubusercontent.com/81756572/205437133-db1ea7f4-5e26-4146-b779-4cbfb1633822.png)
+![image](https://user-images.githubusercontent.com/81756572/205437475-57c027f8-a256-42fe-b7cf-6689f6bdc2a6.png)
+
+## User registration
+![image](https://user-images.githubusercontent.com/81756572/205438213-2519b750-c60d-4ca6-a447-b96b1879e89c.png)
+![image](https://user-images.githubusercontent.com/81756572/205438232-18225536-d71e-4c95-b383-727c5666cb97.png)
+![image](https://user-images.githubusercontent.com/81756572/205438249-eeadadd1-f5a9-46c9-8f57-4541ac136e45.png)
+![image](https://user-images.githubusercontent.com/81756572/205438269-45aff372-51a3-4abf-b40f-ee3579c927c6.png)
+
+## Contrainte de sécurité 
+![image](https://user-images.githubusercontent.com/81756572/205438426-51af22dc-304a-47ea-8c42-96f74ac8b530.png)
+
+
